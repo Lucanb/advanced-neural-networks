@@ -1,2 +1,2 @@
 # advanced-neural-networks
-Advaced Neuronal Networks Project
+Advaced Neuronal Networks Proje
